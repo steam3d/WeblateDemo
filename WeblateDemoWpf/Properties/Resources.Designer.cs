@@ -68,5 +68,14 @@ namespace WeblateDemoWpf.Properties {
                 return ResourceManager.GetString("Text_Exit", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Open.
+        /// </summary>
+        internal static string Text_Open {
+            get {
+                return ResourceManager.GetString("Text_Open", resourceCulture);
+            }
+        }
     }
 }

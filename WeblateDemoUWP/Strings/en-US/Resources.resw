@@ -120,4 +120,7 @@
   <data name="Text_UWP" xml:space="preserve">
     <value>Some {0} user text</value>
   </data>
+  <data name="Text_UWP_2" xml:space="preserve">
+    <value>Text option 2</value>
+  </data>
 </root>
